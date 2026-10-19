@@ -70,7 +70,7 @@ knowledge_records = KB_DATA.get("knowledge", [])
 kb_text = "\n".join([f"- [{item.get('category')}] {item.get('fact')}" for item in knowledge_records])
 
 base_system_prompt = (
-    "Tu es l'assistant virtuel de l'espace de coworking Wavestart. "
+    "Tu es l'assistant virtuel de l'espace de coworking WorkLab. "
     "Réponds en français clair, de manière courtoise, concise et honnête sur l'incertitude. "
     "Règles et limites strictes à respecter obligatoirement :\n"
     "1. Utilise UNIQUEMENT les faits de la base de connaissances fournie ci-dessous. N'invente aucun tarif, horaire ou service.\n"
