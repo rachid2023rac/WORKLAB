@@ -17,7 +17,7 @@ if not api_key:
 
 # 2. Configuration de la page Streamlit
 st.set_page_config(
-    page_title="Assistant Coworking - Wavestart",
+    page_title="Assistant Coworking - WorkLab",
     page_icon="💻",
     layout="centered"
 )
@@ -32,7 +32,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("💻 Assistant - Wavestart Coworking Space")
+st.title("💻 Assistant - WorkLab Coworking Space")
 st.markdown("Posez vos questions sur nos espaces, nos tarifs, les horaires et nos services.")
 
 # 3. Base de connaissances structurée pour le Coworking
