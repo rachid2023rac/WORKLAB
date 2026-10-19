@@ -36,6 +36,7 @@ st.title("💻 Assistant - WorkLab Coworking Space")
 st.markdown("Posez vos questions sur nos espaces, nos tarifs, les horaires et nos services.")
 
 # 3. Base de connaissances structurée pour le Coworking
+# 3. Base de connaissances structurée pour le Coworking
 KB_DATA = {
     "system_instructions": [
         "Tu es l'assistant virtuel d'un espace de coworking. Réponds en français clair.",
