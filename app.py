@@ -45,7 +45,7 @@ KB_DATA = {
     ],
     "knowledge": [
         {"id": "address", "category": "contact", "fact": "Adresse : Sidi Maarouf, Casablanca, Maroc."},
-        {"id": "contact_phone", "category": "contact", "fact": "Téléphone de l'accueil : +212 5 22 00 11 22."},
+        {"id": "contact_phone", "category": "contact", "fact": "Téléphone de l'accueil : +212 5 22 00 11 00."},
         {"id": "opening_hours", "category": "hours", "fact": "L'espace est ouvert du lundi au vendredi de 08:00 à 20:00, et le samedi de 09:00 à 15:00."},
         {"id": "wifi_speed", "category": "services", "fact": "Un réseau Wi-Fi haut débit fibre optique est inclus pour tous les résidents et nomades."},
         {"id": "pricing_nomad", "category": "pricing", "fact": "Le pass journalier (Open Space) est listé à 150 MAD par jour."}
